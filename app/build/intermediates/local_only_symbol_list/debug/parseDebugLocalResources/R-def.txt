@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable frame
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable imagen
+id buttonEnviar
+id editTextNombre
+id imageView
+id main
+id radioButton1
+id radioButton2
+id radioButton3
+id radioGroupFrecuencia
+id spinnerComFav
+id textViewComFav
+id textViewFrecComRap
+id textViewResumen
+id textViewTitulo
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Sum
+style Theme.Sum
+xml backup_rules
+xml data_extraction_rules

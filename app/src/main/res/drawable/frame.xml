@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="ExtraText">
+
+    <!-- Color de fondo del marco -->
+    <solid android:color="#E8DFFD" />
+
+    <!-- Borde del marco -->
+    <stroke
+        android:width="2dp"
+        android:color="#6832C5" />
+
+    <!-- Bordes redondeados -->
+    <corners android:radius="10dp" />
+</shape>
